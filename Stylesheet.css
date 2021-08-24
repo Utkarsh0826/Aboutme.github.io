@@ -1,0 +1,99 @@
+body{
+    background-color: black;
+}
+.heading{
+    color: black;
+    text-align: center;
+}
+.header{
+   background-color: skyblue;
+}
+a:hover{
+    color: blue;
+}
+a{
+    margin-right: 25px;
+    color: black;
+}
+.cover{
+    height: 200px;
+    background-image:url(https://www.emaildesignreview.com/wp-content/uploads/2018/12/abstract-background-1024x273.jpg) ;
+    text-align: center;
+    color: black;
+    font-family: cursive;
+    font-size: 300%;
+     margin-bottom: -8%;
+}
+.image{
+    border-radius: 130%;
+    width: 20%;
+    margin-left: 40%;
+}
+.intro{
+    color: white;
+    text-align:center;
+    font-size: large;
+    font-style: bold;
+    font-weight: 600;
+    
+
+}
+hr{
+    width: 90%;
+    height: 3px;
+    line-height: 3px;
+    background-color: black;
+}
+#My{
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 50px;
+}
+#hr{
+    width: 40%;
+    height: 3px;
+    line-height: 3px;
+    background-color: black;
+}
+#Education{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#schools{
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Montserrat', sans-serif;
+}
+.ecell{
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    width: 70%;
+}
+.ieee{
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    width: 50%;
+}
+.psp{
+    
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 10cm;
+    background:linear-gradient( to right,Red , white 60%)
+}
+
+#about{
+    font-size: xx-large;
+    color:white;
+    text-align: center;
+   
+}
+
+
+
