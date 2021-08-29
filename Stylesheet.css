@@ -12,11 +12,12 @@ a:hover{
     color: blue;
 }
 a{
-    margin-right: 25px;
+    margin-right: 1rem;
     color: black;
 }
 .cover{
-    height: 200px;
+    align-self: center;
+    height: 15rem;
     background-image:url(https://www.emaildesignreview.com/wp-content/uploads/2018/12/abstract-background-1024x273.jpg) ;
     text-align: center;
     color: black;
@@ -40,25 +41,25 @@ a{
 }
 hr{
     width: 90%;
-    height: 3px;
-    line-height: 3px;
+    height: .7rem;
+    line-height: 1rem;
     background-color: black;
 }
 #My{
     color: white;
     text-align: center;
     font-size: xx-large;
-    margin-top: 50px;
+    margin-top: 3rem;
 }
 #hr{
     width: 40%;
-    height: 3px;
-    line-height: 3px;
+    height: .7rem;
+    line-height: 1rem;
     background-color: black;
 }
 #Education{
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 5rem;
+    margin-right: 5rem;
 }
 #schools{
     color: white;
@@ -68,32 +69,21 @@ hr{
 }
 .ecell{
     align-items: center;
-    margin-top: 20px;
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-top: 2rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
     width: 70%;
 }
 .ieee{
     align-items: center;
-    margin-top: 20px;
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-top: 2rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
     width: 50%;
 }
-.psp{
-    
-    padding-top: 5px;
-    padding-bottom: 5px;
-    width: 10cm;
-    background:linear-gradient( to right,Red , white 60%)
-}
 
-#about{
-    font-size: xx-large;
-    color:white;
-    text-align: center;
-   
-}
+
+
 
 
 
